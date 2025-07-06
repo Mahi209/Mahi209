@@ -1,7 +1,4 @@
-<style>
-a:hover{
- size: larger
-</style>
+
 <h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>
 <h3 align="center">Building Smart Solutions with Java, Spring Boot, React, and IoT Devices</h3>
 
